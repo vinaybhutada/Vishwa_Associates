@@ -1,0 +1,12 @@
+a:link {  color: #ffffff; text-decoration: none;}
+a:visited {  color: #ffffff; text-decoration: none;}
+a:hover {  color: #000000; text-decoration: none;}
+a:active {  color: #000000; text-decoration: none;}
+.logo {  font-family: Verdana; font-size: 26px; font-weight: bold; color: #000000}
+.text {  font-family: Verdana; font-size: 12px; color: #000000}
+.text3 {  font-family: Verdana; font-size: 11px; color: #000000}
+.text2 {  font-family: Verdana; font-size: 13px; color: #000000}
+.first {  font-family: Verdana; font-size: 18px; color: #000000}
+.title {  font-family: Verdana; font-size: 18px; font-weight: bold; color: #FF9900}
+p.big {line-height:150%;}
+p.big2 {line-height:190%;}
